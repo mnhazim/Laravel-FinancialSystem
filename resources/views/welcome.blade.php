@@ -1,0 +1,1 @@
+@extends('public_master.app')
